@@ -1,0 +1,24 @@
+{
+  "name": "gentle-tdd",
+  "version": "1.0.0",
+  "description": "Ejercicio de TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strongwarmi/gentle-tdd.git"
+  },
+  "keywords": [
+    "test",
+    "tdd",
+    "ejemplo"
+  ],
+  "author": "strongwarmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strongwarmi/gentle-tdd/issues"
+  },
+  "homepage": "https://github.com/strongwarmi/gentle-tdd#readme"
+}
